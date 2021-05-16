@@ -1,5 +1,5 @@
 #Run on QGIS Python Console
-#Categorized Symbol Automationi
+#Categorized Symbol Automation
 
 #Souce Layer
 fn = "C:/Path/of/Your/Shapefile.shp"
