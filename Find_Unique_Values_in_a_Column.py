@@ -1,5 +1,4 @@
 #Run on QGIS Python Console
-#Find Unique Values
 
 #Souce Layer111
 fn = "C:/Path/of/your/layer.shp"

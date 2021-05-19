@@ -1,7 +1,4 @@
 #Run on QGIS Python Console
-#Categorized Symbol Automation
-
-#labeling with four different rules 
 
 #Source layer
 fn = 'C:/Path/of/Your/Shapefile.shp'

@@ -1,3 +1,5 @@
+#Run on QGIS python console
+
 #Source shape(polygon) file
 fn ='fn = "C:/Path/of/Your/Shapefile.shp"'
 
