@@ -19,10 +19,10 @@ settings26 = QgsPalLayerSettings()
 settings35 = QgsPalLayerSettings()
 
 #find the column(field) for labeling
-settings12.fieldName ='Schriftinh'
-settings14.fieldName ='Schriftinh'
-settings26.fieldName ='Schriftinh'
-settings35.fieldName ='Schriftinh'
+settings12.fieldName ='myFieldName'
+settings14.fieldName ='myFieldName'
+settings26.fieldName ='myFieldName'
+settings35.fieldName ='myFieldName'
 
 #Make textFormat objects.
 textFormat12 = QgsTextFormat()
