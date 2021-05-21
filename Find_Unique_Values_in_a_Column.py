@@ -17,7 +17,7 @@ print('How many Features?', fc)
 unique_value_list = []
 
 #Put all the values in the column into the list.
-for i in range(0,fc):
+for i in range(1,fc+1):
     feat = layer.getFeature(i)
     unique_value_list.append(feat['MyColumn'])
 
