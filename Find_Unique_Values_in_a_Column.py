@@ -9,6 +9,9 @@ iface.addVectorLayer(fn, 'NEU', 'ogr')
 #make a new variable
 layer = iface.activeLayer()
 
+#If you don't want to add Layer to canvas
+#layer = QgsVectorLayer(fn,"any name","ogr")
+
 #The number of features of the layer.
 fc = layer.featureCount()
 print('How many Features?', fc)
