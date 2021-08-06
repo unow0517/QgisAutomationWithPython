@@ -1,5 +1,4 @@
 # QGIS Python Automation
-
 * All scripts are to be executed on **QGIS Python Console**
 * All scripts can be run on QGIS 3.16 Hannover
 
