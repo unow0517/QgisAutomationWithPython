@@ -1,8 +1,9 @@
 ##Copy features from a layer to another layer with fields
 
 #set variable layers
-sourceLYR = QgsProject.instance().mapLayersByName('TRASSEN')[0]
-destLYR = QgsProject.instance().mapLayersByName('Linie')[0]
+#the layers should be on Layer window
+sourceLYR = QgsProject.instance().mapLayersByName('YourSourceLayerName')[0]
+destLYR = QgsProject.instance().mapLayersByName('YourDestLayerName')[0]
 
 #set sourceLYR field names in list 
 attrs = sourceLYR.dataProvider().fields().toList()    
