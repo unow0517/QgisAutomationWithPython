@@ -7,6 +7,6 @@
 
 * If you have questions, you can email unow1992@gmail.com
 
-##SLD from QGIS export
+## SLD from QGIS export
 
 * I tried to apply on the project running on Geoserver, but it didn't work. You should modify some tags to make it work.
